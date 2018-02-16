@@ -3,3 +3,5 @@ salt
 lemon
 3 tomatoes
 cilantro
+onions
+a million garlic
